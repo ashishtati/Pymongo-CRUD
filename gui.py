@@ -149,5 +149,5 @@ tk.Button(root, text="Display Users", command=read).place(x=100, y=250)
 tk.Button(root, text="Update", command=update).place(x=220, y=250)
 tk.Button(root, text="Delete", command=delete).place(x=320, y=250)
 
-# App Run Yaha Hoga
 root.mainloop()
+
